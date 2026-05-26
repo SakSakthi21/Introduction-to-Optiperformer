@@ -37,7 +37,13 @@ The system is *instrumented* with:
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ---
 ## Result
+<img width="1087" height="592" alt="image" src="https://github.com/user-attachments/assets/9d8ef86c-e5f4-4078-82b2-18f57efec098" />
+
+<img width="1600" height="1239" alt="image" src="https://github.com/user-attachments/assets/b3af1708-2d8f-48f5-a39a-2b9b74f2e309" />
+
 
 ---
-
+## RESULT
+The simulation was successfully executed using OptiPerformer software.
+It was observed that as fiber length increases, received optical power decreases and BER increases.
 
